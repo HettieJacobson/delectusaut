@@ -1,0 +1,19 @@
+{
+  "name": "delectusaut",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HettieJacobson/delectusaut.git"
+  },
+  "author": "JacksonGerlach",
+  "license": "MIT",
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "devDependencies": {
+    "lerna": "^3.20.2"
+  },
+  "homepage": "https://github.com/HettieJacobson/delectusaut.git"
+}
